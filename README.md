@@ -1,4 +1,4 @@
-## An empty "typescript-nodejs" project to use
+## An empty "typescript-nodejs-default-project" project to use
 ### Project setup
 ```
 npm install
