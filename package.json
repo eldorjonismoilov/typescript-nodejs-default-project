@@ -1,7 +1,7 @@
 {
-  "name": "node.ts",
+  "name": "typescript-with-nodejs",
   "version": "1.0.0",
-  "description": "An empty node.ts project to use",
+  "description": "An empty \"typescript-with-nodejs\" project to use",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon",
