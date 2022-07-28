@@ -1,7 +1,7 @@
 {
-  "name": "typescript-nodejs",
+  "name": "typescript-nodejs-default-project",
   "version": "1.0.0",
-  "description": "An empty \"typescript-nodejs\" project to use",
+  "description": "An empty \"typescript-nodejs-default-project\" project to use",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon",
